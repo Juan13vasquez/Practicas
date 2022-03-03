@@ -1,0 +1,8 @@
+{
+  "name": "web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "59db82d2"
+}
